@@ -1,0 +1,28 @@
+.account-container {
+    border: 2px solid black;
+    height: 600px
+}
+.highscore-box {
+    border: 2px solid black;
+    height: 80px;
+    margin: 15px;
+    margin-bottom: 50px;
+}
+.songlist-box {
+    border: 2px solid black;
+    height: 200px;
+    margin: 15px;
+    overflow: auto;
+}
+.submitted {
+    margin-top: 5px
+}
+.hello {
+    text-align: left;
+    margin: 15px;
+    margin-bottom: 30px;
+}
+.autocomplete {
+    margin: 15px;
+    margin-bottom: 0px; 
+}
