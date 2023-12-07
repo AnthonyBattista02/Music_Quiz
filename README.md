@@ -11,7 +11,7 @@ This is a full stack website using a django backend and a React frontend. The we
 ![image](https://github.com/AnthonyBattista02/Music_Quiz/assets/47795224/2a63f69a-0ffc-4fb1-b950-11adacab56cd)
 ![Screenshot from 2023-12-07 08-56-07](https://github.com/AnthonyBattista02/Music_Quiz/assets/47795224/627425dc-dc32-4996-95e9-738694a5eee5)
 ![Screenshot from 2023-12-07 08-56-13](https://github.com/AnthonyBattista02/Music_Quiz/assets/47795224/d5ef70ff-6828-447a-899e-4fce28f1c807)
-
+![image](https://github.com/AnthonyBattista02/Music_Quiz/assets/47795224/4fff774e-ea0e-4468-86c7-899460bb54c9)
 
 ## Technologies Used
 - React
