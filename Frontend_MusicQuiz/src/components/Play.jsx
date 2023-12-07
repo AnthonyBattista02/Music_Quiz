@@ -42,7 +42,6 @@ export default function Play () {
     }
 
     useEffect(() => {
-    console.log(displayText);
   }, [displayText]);
 
     
