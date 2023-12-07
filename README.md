@@ -21,3 +21,4 @@ This is a full stack website using a django backend and a React frontend. The we
 -  Bootstrap
 ## Future Changes
 In the future I would like to create more quiz types such as one that compares the popularity of two different songs or artists, and one that plays an audio clip of a song for you to guess.
+To finish the project I would like to find an API that actually works and will continue to work. Lastly the User in the backend did not work as intended and that is the next aspect of the site that would be fixed.
