@@ -1,0 +1,24 @@
+.question-container {
+    border: 2px solid black;
+    height: 600px;
+    width: 546px;
+}
+.question {
+    margin: 30px;
+}
+.lyrics {
+    border: 1px solid black;
+    margin: 20px;
+    min-height: 100px;
+}
+.answer-submitted {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.timer {
+    margin: 15px;
+}
+.time-alert {
+    margin: 15px;
+
+}

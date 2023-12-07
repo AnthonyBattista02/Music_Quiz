@@ -1,0 +1,18 @@
+.container {
+    border: 2px solid black;
+    height: 600px;
+    width: 546px;
+}
+.login-input {
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+.login-title {
+    margin-top: 30px;
+}
+.login-button {
+    margin-bottom: 30px;
+}
+.login-container {
+    margin-top: 80px;
+}
